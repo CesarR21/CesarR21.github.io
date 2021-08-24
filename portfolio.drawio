@@ -1,0 +1,79 @@
+<mxfile host="65bd71144e">
+    <diagram id="_K-QjgWMXAAIghXga7K4" name="Page-1">
+        <mxGraphModel dx="512" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="HOME" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="110" width="260" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="MEDIA&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="20" y="105" width="60" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="WELCOME MESSAGE&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="120" y="80" width="140" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="WELCOME VIDEO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="120" y="125" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="NAVIGATION BAR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="3">
+                    <mxGeometry x="50" y="170" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="ABOUT" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="110" width="260" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="MEDIA CONTENT PICTURE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="4">
+                    <mxGeometry y="70" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="BIO&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="4">
+                    <mxGeometry x="170" y="105" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="PROJECTS" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="420" width="270" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="MEDIA&amp;nbsp;&lt;br&gt;LOGOS&amp;nbsp;&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="5">
+                    <mxGeometry x="10" y="100" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="PROJECT VIDEOS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="5">
+                    <mxGeometry x="130" y="105" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="NAVIGATION BAR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="5">
+                    <mxGeometry x="70" y="160" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="CONTACT" style="swimlane;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="425" width="260" height="205" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="250" as="sourcePoint"/>
+                        <mxPoint x="340" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="527" as="sourcePoint"/>
+                        <mxPoint x="340" y="527" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="165" y="415" as="sourcePoint"/>
+                        <mxPoint x="164.5" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="100" height="100" relative="1" as="geometry">
+                        <mxPoint x="479.5" y="420" as="sourcePoint"/>
+                        <mxPoint x="479.5" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="NAVIGATION BAR" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="270" width="120" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="FILL OUT&lt;br&gt;CONTACT FORM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="515" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
